@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable\\mdtp_material_button_background.xml"
+    }
+]

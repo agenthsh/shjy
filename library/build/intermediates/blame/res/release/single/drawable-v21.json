@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\hwang\\AndroidStudioProjects\\TestDB\\library\\src\\main\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    }
+]
